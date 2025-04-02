@@ -8,6 +8,6 @@ Uma arquitetura baseada na Clean Archtecture onde separo em camadas de Data, Dom
 
 Utilizei o GetIt e o Injectable para as injeções de dependências, um dos que acho mais fáceis de utilizar junto com o build_runner e bem performático.
 
-Criei o ExamApi na pasta core para fazer todo o processo até a datasource da feature como se estivesse acessando um datasource externo.
+Criei o ExamApi na pasta core para fazer todo o processo da tela até a DataSource da feature como se estivesse acessando um datasource externo.
 
 Utilizei Bloc como Gerenciamento de Estados.
